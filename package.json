@@ -134,7 +134,7 @@
     "handlebars": "^4.0.6",
     "handlebars-loader": "^1.4.0",
     "html-webpack-plugin": "^2.24.1",
-    "jsx-test-helpers": "^1.1.0",
+    "jsx-test-helpers": "^2.0.0",
     "mkdirp": "^0.5.1",
     "nightmare": "^2.9.1",
     "null-loader": "^0.1.1",
