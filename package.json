@@ -130,7 +130,7 @@
     "eslint-plugin-react": "^6.3.0",
     "extract-text-webpack-plugin": "2.0.0",
     "file-loader": "^0.10.0",
-    "fkill-cli": "^3.3.0",
+    "fkill-cli": "^4.0.0",
     "handlebars": "^4.0.6",
     "handlebars-loader": "^1.4.0",
     "html-webpack-plugin": "^2.24.1",
