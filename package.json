@@ -136,7 +136,7 @@
     "html-webpack-plugin": "^2.24.1",
     "jsx-test-helpers": "^1.1.0",
     "mkdirp": "^0.5.1",
-    "nightmare": "^2.9.1",
+    "nightmare": "^3.0.0",
     "null-loader": "^0.1.1",
     "postcss-loader": "^1.2.0",
     "react": "^15.4.1",
